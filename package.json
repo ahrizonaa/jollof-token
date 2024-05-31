@@ -1,0 +1,20 @@
+{
+	"name": "jolloftoken",
+	"version": "1.0.0",
+	"description": "",
+	"main": "newInterchainToken.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"dotenv": "^16.4.5",
+		"hardhat": "^2.22.4"
+	},
+	"dependencies": {
+		"@axelar-network/axelarjs-sdk": "^0.16.0",
+		"@nomicfoundation/hardhat-toolbox": "^5.0.0",
+		"crypto": "^1.0.1"
+	}
+}
